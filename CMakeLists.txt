@@ -100,6 +100,7 @@ target_sources(oink
     src/solvers/zlkpp.cpp
     src/solvers/ptl.cpp
     src/solvers/dtl.cpp
+    src/solvers/rfp.cpp
     ${OINK_HDRS}
 )
 
